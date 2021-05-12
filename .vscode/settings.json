@@ -1,7 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "src/chapter_2_character_stream",
-        "src/chapter_1_bytes_stream",
-        "src"
-    ]
-}

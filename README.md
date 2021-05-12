@@ -1,14 +1,14 @@
-## Getting Started
+## Aprendendo á usar o pacote IO e NIO do Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um repositorio onde tem todas as classes usadas para seguir o tutorial Basics I/O do Java.
 
-## Folder Structure
+## Estrutura de pastas
 
-The workspace contains two folders by default, where:
+O projecto cont, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: Esta pasta de os arquivos .java do projecto
+- `lib`: Contém as dependencias
 
 ## Dependency Management
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+O Projecto ainda não possui dependencias. pode usar a vontade.
